@@ -23,7 +23,7 @@ Beim Vertiefungafutrag habe bei einem der Aufgaben einenfähler im Code gehabnt.
 
 ## Arbeitspakete für 31.10.2023
 
-- [ ] Den einfachen WinForms taschenrechner fertig stellen
+- [x] Den einfachen WinForms taschenrechner fertig stellen
 - [ ] Schere Stein Papier Spiel beginnen zustarten
 - [ ] Eine steuerbare Figur machen mit WinForms.
-- [ ] E-Portfolio für Modul 319 erstellen
+- [x] E-Portfolio für Modul 319 erstellen
