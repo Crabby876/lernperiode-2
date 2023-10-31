@@ -27,3 +27,15 @@ Beim Vertiefungafutrag habe bei einem der Aufgaben einenfähler im Code gehabnt.
 - [ ] Schere Stein Papier Spiel beginnen zustarten
 - [ ] Eine steuerbare Figur machen mit WinForms.
 - [x] E-Portfolio für Modul 319 erstellen
+
+Heute habe ich die meiste Zeit am Taschenrechner gearbeitet. Es hat mir auch sehr viel spass gemacht und ich habe einen sehr vereinfacht Taschenrechner programmiert. Da es mir so viel spass gemacht hat möchte ich es ein bisschen erweiter z.B das man auch zahlen mit Tasten eintippen kann oder man Wurzel von zahlen ziehen kann. Ansonten habe ich noch eine kleinen Teil vom E-Portfolio gemacht.
+
+
+
+
+
+## Arbeitspaket für 07.11.2023
+
+- [ ] Schre Stein Papier spiel mit Buttons auf WinForms programmieren
+- [ ] Ein steuerbares Figur in WinForms machen
+- [ ] Taschenrechner erweitern 
