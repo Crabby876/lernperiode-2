@@ -36,6 +36,14 @@ Heute habe ich die meiste Zeit am Taschenrechner gearbeitet. Es hat mir auch seh
 
 ## Arbeitspaket für 07.11.2023
 
-- [ ] Schre Stein Papier spiel mit Buttons auf WinForms programmieren
+- [x] Schre Stein Papier spiel mit Buttons auf WinForms programmieren
 - [ ] Ein steuerbares Figur in WinForms machen
-- [ ] Taschenrechner erweitern 
+- [x] Taschenrechner erweitern
+
+Heute habe ich nicht sehr viel neues gelernt, aber es hat mir trotzdem sehr viel spass gemacht einen Glücksspiel nählich Schere, Stein Papier zu programmieren. Leider wurde ich nicht ganz fertig und werde es das nächste mal weiter führen müssen. Den Taschenrechner habe ich am Ende noch mal hervorgeholt und ein wenig daran rum gespielt. Jedoch habe ich nicht sehr grosse änderungen gemach, eher einbisschen debuging und das man auch die Tastatur verwenden kann. Leider funktioniertes nicht wirklich.
+
+## Arbeitspaket für 14.11.2023
+
+- [ ] Schre Stein Papier spiel fertigstellen
+- [ ] Taschenrechner Fehlerbehebung der neuen Funktionen
+- [ ]  Einen steuerbaren Figur mit hilfe von WinForms programmieren versuchen.
