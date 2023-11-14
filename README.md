@@ -44,6 +44,14 @@ Heute habe ich nicht sehr viel neues gelernt, aber es hat mir trotzdem sehr viel
 
 ## Arbeitspaket für 14.11.2023
 
-- [ ] Schre Stein Papier spiel fertigstellen
-- [ ] Taschenrechner Fehlerbehebung der neuen Funktionen
+- [x] Schre Stein Papier spiel fertigstellen
+- [x] Taschenrechner Fehlerbehebung der neuen Funktionen
 - [ ]  Einen steuerbaren Figur mit hilfe von WinForms programmieren versuchen.
+
+Heute gab es eine sehr lange Presentation i während der Stunde welches uns viele wichtige Informationen über WinForms gegeben hat und ebenfals zum Speicher von Daten. Vor der Presentation habe ich einwenig an meine Taschenrechner gearbeitedt, ich habe eine anzeie für die vorherige Eingabe gemacht. Nach der Presentation habe ich einen Schere, Stein, Papier Spiel auf eine Konsolen-App gemacht, danach habe ich auf WinForms gewechselt unt das Spiel gestarted zu übertrage und Bildlich dahrzustellen.
+
+## Arbeitspaket für 21.11.2023
+
+- [ ] Schere, Stein, Papier Spiel auf WinForm weiter Programmieren
+- [ ] Neuse Projeckt (steuerbares Figur) starten, erst mal links rechts bewegen Programmieren
+- [ ] steuerbares Figur physigs zum Springen veruchen zu machen
