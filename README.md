@@ -52,6 +52,15 @@ Heute gab es eine sehr lange Presentation i während der Stunde welches uns viel
 
 ## Arbeitspaket für 21.11.2023
 
-- [ ] Schere, Stein, Papier Spiel auf WinForm weiter Programmieren
-- [ ] Neuse Projeckt (steuerbares Figur) starten, erst mal links rechts bewegen Programmieren
+- [x] Schere, Stein, Papier Spiel auf WinForm weiter Programmieren
+- [x] Neuse Projeckt (steuerbares Figur) starten, erst mal links rechts bewegen Programmieren
 - [ ] steuerbares Figur physigs zum Springen veruchen zu machen
+
+Heute habe ich sehr lange an meine Schere Stein Papier Spiel gearbeited. Ich konnte es sogar fertigstellen natür lich könnte ich noch weitere features hinzufügen aber bis jetzt bin ich sehr zu frieden mit meinem kleinen Spiel. Ich habe neu einen Menu hinzugefügt wo man auf 1pt oder auf 3t spielen kann und musste einen grossen teil meines Codes an passen. Ebenfalls musste ich ein wenig debuggen. Danach habe ich mal den neuen Projeckt gestarted aber konnte fast nichts dran machen.
+
+## Arbeitspaket für 28.11.2023
+
+- [ ] Figur erstellen für bewegbares figur Projekt
+- [ ] Figur bewegbar machen erst mal  links und rechts
+- [ ] springen mit gravitation hinzufügen (versuchen)
+
