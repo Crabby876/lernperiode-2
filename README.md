@@ -60,7 +60,16 @@ Heute habe ich sehr lange an meine Schere Stein Papier Spiel gearbeited. Ich kon
 
 ## Arbeitspaket für 28.11.2023
 
-- [ ] Figur erstellen für bewegbares figur Projekt
-- [ ] Figur bewegbar machen erst mal  links und rechts
+- [x] Figur erstellen für bewegbares figur Projekt
+- [x] Figur bewegbar machen erst mal  links und rechts
 - [ ] springen mit gravitation hinzufügen (versuchen)
+
+Heute habe ich an meinem Figur gearbeted. Es fuktoniert jetzt gut jedoch musste ich viele Probleme lösen. Ich habe meine Figur so gemacht das es sich links und rechts bewegen kann jedoch geht das noch nich genz so gut aber es fuktioniert.
+Das mit dem Springen habe ich immer noch nich hin ge kriegt aber ich denke das nächste mal sollte das auch gehen.
+
+## Arbeitspaket für 4.12.2023
+
+- [ ] Mit meiner Gruppe eine Lösung finden unser Projekt von M312 zusammen zu bearbeiten (WinForms)
+- [ ] Unser Proekt designen und und anfangen codieren (Winforms)
+- [ ] Advent Projekt von Herr Colic beginnen
 
