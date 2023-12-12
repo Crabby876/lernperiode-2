@@ -69,7 +69,14 @@ Das mit dem Springen habe ich immer noch nich hin ge kriegt aber ich denke das n
 
 ## Arbeitspaket für 4.12.2023
 
-- [ ] Mit meiner Gruppe eine Lösung finden unser Projekt von M312 zusammen zu bearbeiten (WinForms)
-- [ ] Unser Proekt designen und und anfangen codieren (Winforms)
-- [ ] Advent Projekt von Herr Colic beginnen
+- [x] Mit meiner Gruppe eine Lösung finden unser Projekt von M312 zusammen zu bearbeiten (WinForms)
+- [x] Unser Proekt designen und und anfangen codieren (Winforms)
+- [x] Advent Projekt von Herr Colic beginnen
 
+Mit meiner Gruppe haben wir unseren Projeckt vertiggestellt und es ist bereit presentiert zu werden. Nich nur das sondern wir haben unser winforms Programm auch als App dargestellt und können es mit einem klick abspielen lassen. Den design haben wir auch geändert und es siht um einiges beser aus danach hatte ich noch ganz wenig zeit und bn unsere Leaerboard beigetreten beo aoc und habe mal erst ganz wenig begonnen.
+
+## Arbeitspaket für 19.12.2023
+
+- [ ] Aoc den ersten Tag machen
+- [ ] WinForms PingPong spiel projeckt straten und designs machen
+- [ ] WinForms PingPong spiel projeckt programmieren
