@@ -78,5 +78,12 @@ Mit meiner Gruppe haben wir unseren Projeckt vertiggestellt und es ist bereit pr
 ## Arbeitspaket für 19.12.2023
 
 - [ ] Aoc den ersten Tag machen
-- [ ] WinForms PingPong spiel projeckt straten und designs machen
-- [ ] WinForms PingPong spiel projeckt programmieren
+- [x] WinForms PingPong spiel projeckt straten und designs machen
+- [x] WinForms PingPong spiel projeckt programmieren
+
+Heute hatten wir nicht sehr viel Zeit und ich ahbe mir überlegt welche Ziele ch machen möchte. Ich habe gedacht das das PingPong spiel mir mehr spass machen würde und habe es zu erst ganz einfach designed und dann giges auch schon los mit dem Programmieren. Ich hatte schwierig keiten die beiden Spieler zum bewegen zu bringen habe kurz danach rechechiert und habe es schliesslich hinge kriegt. So mit habe ich heute wieder etwas neues gelernt und onnte mein Programmiernen weiter üben.
+
+## Reflexion
+
+Im gegensatz zur LernPeriode1 hatten wir diesmal viel mehr Zeit. Am Anfang habe ich mir überlegt, einen etwas grösseren Projeckt zu starten. Jedoch habe ich gedacht das meine Wissen nch nicht gut genug ist. Es war nicht nur die Zeit was anderst war, denn in dieser Periode habe ich ebenfalls viel mehr mit WinForms geabitet und habe kleine Spiele programmiert, was mit sehr viel spass gemacht hat. Ich habe angefangen mit einem sehr einfachen Taschenrechner, dannach habe ich etwas schwierigeres probiert, nähmlich, ein Schäre, Stein, Papier Spiel, was ein wenig länger brauchte aber trotzdem noch schaffbar war. Dannach  habe ich versucht ein paar Spiel physiks zu testen mit einem bewegbaren vieger, bei diesem Prozes habe ich auch sehr viel dazu gelernt. Mit diesen neuen informationen habe ich nun einen PingPong- Spiel gestarted und es ist gut gelaufen. Im Algemeinen kann ich sagen, das diese paar Wochen für mich sehr informatiev und auch lustig vergangen sind.
+Mein Ziel von der Letzten Lernperiode war mich nicht ablenken zu lassen und dafür an verschiedenen Programmen zu arbeiten. Meiner Meinung nach habe ich meinen Ziel erfüllt und ich hatte hâuch das Gefühl das ich nun schon länger Konzentriert bleiben konte. Ich habe auc oft mal wenn ich abgelenkt war, an einem alten Programm weiter gemacht, denn auch wenn es fertig ist man kann es immer noch verbessern. Was mirjedoch aufgefallen ist, dass es immer eine Weile geht bis ich mich nach den Pausenwieder konzentrieren kann. Um diesen Prozess zu verschnellern habe ich gedacht könnte ich mal versuchen Musikk zu hören nach den Pausen.
